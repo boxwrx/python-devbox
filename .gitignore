@@ -1,0 +1,11 @@
+**/.gradle/
+**/.venv/
+**/node_modules/
+**/build/
+**/target/
+**/package-lock.json
+**/*.class
+**/*.jar
+**/*.war
+**/*.ear
+**/.DS_STORE

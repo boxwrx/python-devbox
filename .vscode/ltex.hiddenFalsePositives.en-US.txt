@@ -1,0 +1,7 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QOnce the environment is established, both the gcc and clang build environments are available, as well as the gdb and lldb debuggers.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QOnce the environment is established, both the gcc and clang build environments are available, as well as the gdb and lldb debuggers.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QOnce the environment is established, both the gcc and clang build environments are available, as well as the gdb and lldb debuggers.\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QTo run or debug the program from inside of VS Code, the .vscode folder has been populated with default launch.json and tasks.json files that build and run src/main.c.\\E$"}
+{"rule":"LC_AFTER_PERIOD","sentence":"^\\QThis will leave the compiled program as HelloWorld.class in the same folder.\\E$"}
+{"rule":"LC_AFTER_PERIOD","sentence":"^\\QThis will leave the compiled program as HelloWorld.class in the same folder.\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QTo run or debug the program from inside of VS Code, the .vscode folder has been populated with default launch.json and tasks.json files that build and run src/main/java/HelloWorld.java.\\E$"}

@@ -1,0 +1,12 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "editor.minimap.enabled": false,
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "sarif-viewer.connectToGithubCodeScanning": "off",
+    "workbench.startupEditor": "readme",
+    "workbench.editorAssociations": {
+        "*.md": "vscode.markdown.preview.editor"
+    },
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python"
+}

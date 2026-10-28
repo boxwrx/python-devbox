@@ -1,0 +1,7 @@
+vscode
+json
+Codespace
+gcc
+gdb
+lldb
+HelloWorld

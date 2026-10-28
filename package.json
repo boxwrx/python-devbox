@@ -1,0 +1,5 @@
+{
+    "name": "python-devbox",
+    "version": "1.0.0",
+    "description": "A virtual Debian development environment for the Python programmer"
+}
