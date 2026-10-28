@@ -3,7 +3,7 @@
 # The name "bookworm" refers to the Debian Bookworm release, which is the base OS for this image, adding the name
 # fixes the Linux release used.
 
-FROM mcr.microsoft.com/devcontainers/base:ubuntu
+FROM mcr.microsoft.com/devcontainers/python:3
 ENV DEBIAN_FRONTEND=noninteractive
 WORKDIR /workspace
 
