@@ -5,7 +5,17 @@
     },
     "customizations": {
         "vscode": {
-            "extensions": [  "ms-python.python", "charliermarsh.ruff" ]
+            "extensions": [
+                "ms-python.python",
+                "charliermarsh.ruff",
+                "-ms-python.autopep8"
+            ],
+            "settings": {
+                "[python]": {
+                    "editor.defaultFormatter": "charliermarsh.ruff",
+                    "editor.formatOnSave": true
+                }
+            }
         }
     },
     "postCreateCommand": "python3 -m venv .venv && .venv/bin/pip install --upgrade pip && .venv/bin/pip install -e ."
